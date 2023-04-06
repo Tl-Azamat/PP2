@@ -1,0 +1,1 @@
+"C:/Users/Azamat2005/Desktop/Python/Prob/pp2/week8/assigment/racer/racerimages/1.png"
